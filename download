@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated experiment files (created by main.py)
+data/missingness/
+results/dmi/full_suite/
+results/emi/
+
+# Editors
+.vscode/
+.idea/
